@@ -258,7 +258,7 @@ with gr.Blocks(title="🎙️ Interactive Audio Editor") as demo:
 
 # Add custom CSS and JavaScript for the interactive transcript styling and logic
 # Gradio automatically wraps the JS code in a script tag.
-demo.load(_js=INTERACTIVE_JS) 
+demo.load(js=INTERACTIVE_JS) 
 
 # Custom CSS for the interactive transcript styling
 demo.css = """
