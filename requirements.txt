@@ -1,0 +1,4 @@
+faster-whisper
+gradio
+torch
+pydub
