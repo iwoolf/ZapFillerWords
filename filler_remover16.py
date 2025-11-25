@@ -300,3 +300,4 @@ demo.css = """
     text-decoration: line-through;
     opacity: 0.8;
 }
+"""
