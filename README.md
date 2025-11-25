@@ -3,6 +3,8 @@
 
 Identify and remove filler words from media, using vibe coding
 
+This project doesn't work yet. it successfully finds ums, and eitherv removes them or plays a tone over them. Currently when audio is transcribed, the a, and, at etc are detected as ah, and beeped.
+This is a transcription problem. It may be helpful to see the transcription to see where its going wrong, as a next step to debugging.
 
 This guide details how to set up the Python environment, install dependencies, and run the filler_remover script (which uses gradio to provide a user interface).
 
