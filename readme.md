@@ -1,5 +1,8 @@
 🎙️ Audio Filler Remover: Setup and Run Guide
 
+Identify and remove filler words from media, using vibe coding
+
+
 This guide details how to set up the Python environment, install dependencies, and run the filler_remover script (which uses gradio to provide a user interface).
 
 ⚠️ Prerequisites
